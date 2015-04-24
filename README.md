@@ -5,7 +5,7 @@ Custom config file used by [karabiner](https://pqrs.org/osx/karabiner/) remappin
 ![Alt text](assets/poker-ii-layout.png "Optional title")
 
 
-Finish:
+Done:
 
 - Wasd navigation arrow
 - F1 to F12 mapped to 1 - '=' keys
